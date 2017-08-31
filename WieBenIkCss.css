@@ -1,0 +1,34 @@
+body {
+	background-image: url(http://www.drodd.com/images14/blue34.jpg);
+}
+h1 {
+	padding-top: 50px;
+	font-family: arial;
+	text-align: center;	
+}
+#gegevens {
+	font-family: arial;
+	padding-left: 250px;
+	
+}
+#gegeven {
+	font-family: arial;
+	padding-left: 250px;
+	padding-top: 200px;
+}
+#hobbys {
+	font-family: arial;
+	padding-left: 250px;
+}
+#hobby {
+	font-family: arial;
+	padding-left: 250px;
+}
+#imagetxt {
+	text-align: center;
+}
+#img1 {
+	border: solid 2px;
+
+	float: right;
+}
