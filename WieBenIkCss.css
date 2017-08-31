@@ -18,11 +18,11 @@ h1 {
 }
 #hobbys {
 	font-family: arial;
-	padding-left: 250px;
+	padding-left: 300px;
 }
 #hobby {
 	font-family: arial;
-	padding-left: 250px;
+	padding-left: 300px;
 }
 #imagetxt {
 	text-align: center;
@@ -31,4 +31,12 @@ h1 {
 	border: solid 2px;
 
 	float: right;
+}
+#werk {
+	font-family: arial;
+	padding-left: 350px;
+}
+#Bio {
+	font-family: arial;
+	text-align: center;
 }
