@@ -1,5 +1,5 @@
 body {
-	background-image: url(http://www.drodd.com/images14/blue34.jpg);
+    background: url("https://ak7.picdn.net/shutterstock/videos/24522/thumb/1.jpg") repeat;
 }
 h1 {
 	padding-top: 50px;
@@ -36,7 +36,7 @@ h1 {
 	font-family: arial;
 	padding-left: 350px;
 }
-#Bio {
+#ik {
 	font-family: arial;
-	text-align: center;
+	padding-left: 400px;
 }
