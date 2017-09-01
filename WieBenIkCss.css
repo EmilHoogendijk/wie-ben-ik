@@ -1,5 +1,5 @@
 body {
-    background: url("https://ak7.picdn.net/shutterstock/videos/24522/thumb/1.jpg") repeat;
+    background: url("https://ak7.picdn.net/shutterstock/videos/24522/thumb/1.jpg");
 }
 h1 {
 	padding-top: 50px;
@@ -28,15 +28,35 @@ h1 {
 	text-align: center;
 }
 #img1 {
-	border: solid 2px;
-
+	position: absolute;
 	float: right;
 }
 #werk {
 	font-family: arial;
 	padding-left: 350px;
 }
+#werke {
+	font-family: arial;
+	padding-left: 350px
+}
 #ik {
 	font-family: arial;
 	padding-left: 400px;
+}
+
+#ike {
+	font-family: arial;
+	padding-left: 400px;
+}
+li {
+    display: inline;
+}
+#imgA {
+	text-align: right;
+	position: absolute;
+}
+#imgB {
+	vertical-align: right;
+}
+#imgC{
 }
