@@ -1,3 +1,10 @@
+header {
+	background-image: url("https://qph.ec.quoracdn.net/main-qimg-896a520315183b6b8c9c3717a8c7a808");
+	width: 600px;
+	height: 100px;
+	margin: 0 auto;
+	border-radius: 10% 10%;
+}
 body {
     background: url("https://ak7.picdn.net/shutterstock/videos/24522/thumb/1.jpg");
 }
@@ -52,11 +59,10 @@ li {
     display: inline;
 }
 #imgA {
-	text-align: right;
 	position: absolute;
 }
 #imgB {
-	vertical-align: right;
+
 }
 #imgC{
 }
