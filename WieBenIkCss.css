@@ -15,21 +15,28 @@ h1 {
 }
 #gegevens {
 	font-family: arial;
-	padding-left: 250px;
+	padding-left: 100px;
 	
 }
 #gegeven {
 	font-family: arial;
-	padding-left: 250px;
+	padding-left: 100px;
 	padding-top: 200px;
 }
 #hobbys {
 	font-family: arial;
-	padding-left: 300px;
+	padding-left: 100px;
 }
-#hobby {
+#Hobby {
 	font-family: arial;
-	padding-left: 300px;
+	padding-left: 100px;
+	padding-top: 200px;
+	text-align: center;
+}
+#Hobby1 {
+	font-family: arial;
+	padding-left: 100px;
+	text-align: center;
 }
 #imagetxt {
 	text-align: center;
@@ -40,20 +47,20 @@ h1 {
 }
 #werk {
 	font-family: arial;
-	padding-left: 350px;
+	padding-left: 100px;
 }
 #werke {
 	font-family: arial;
-	padding-left: 350px
+	padding-left: 100px
 }
 #ik {
 	font-family: arial;
-	padding-left: 400px;
+	padding-left: 100px;
 }
 
 #ike {
 	font-family: arial;
-	padding-left: 400px;
+	padding-left: 100px;
 }
 li {
     display: inline;
@@ -65,4 +72,21 @@ li {
 
 }
 #imgC{
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
 }
