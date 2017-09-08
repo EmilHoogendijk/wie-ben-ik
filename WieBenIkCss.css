@@ -15,12 +15,12 @@ h1 {
 }
 #gegevens {
 	font-family: arial;
-	padding-left: 100px;
+	text-align: center;
 	
 }
 #gegeven {
 	font-family: arial;
-	padding-left: 100px;
+	text-align: center;
 	padding-top: 200px;
 }
 #hobbys {
@@ -55,14 +55,15 @@ h1 {
 }
 #ik {
 	font-family: arial;
-	padding-left: 100px;
+	text-align: center;
+	padding-top: 100px;
 }
 
-#ike {
+#ik1 {
 	font-family: arial;
-	padding-left: 100px;
+	text-align: center;
 }
-li {
+.li {
     display: inline;
 }
 #imgA {
